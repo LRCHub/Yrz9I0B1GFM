@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "FAMOUS",
+  "base_artist": "ALLDAY PROJECT",
+  "createdAt": "2026-02-19T05:03:57.589319Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Famous Friends",
+      "artist": "Chris Young feat. Kane Brown",
+      "has_synced": true,
+      "path": "select/01_Famous_Friends_Chris_Young_feat._Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Famous Friends",
+      "artist": "Chris Young",
+      "has_synced": true,
+      "path": "select/02_Famous_Friends_Chris_Young.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Famous",
+      "artist": "Adam Doleac",
+      "has_synced": true,
+      "path": "select/03_Famous_Adam_Doleac.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Famous Last Words Of A Fool",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/04_Famous_Last_Words_Of_A_Fool_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Famous Last Words Of A Fool (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/05_Famous_Last_Words_Of_A_Fool_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lifestyles Of The Not So Rich And Famous - Single Version",
+      "artist": "Tracy Byrd",
+      "has_synced": false,
+      "path": "select/06_Lifestyles_Of_The_Not_So_Rich_And_Famous_-_Single_Version_Tracy_Byrd.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lifestyles Of The Not So Rich And Famous (Single Version)",
+      "artist": "Tracy Byrd",
+      "has_synced": false,
+      "path": "select/07_Lifestyles_Of_The_Not_So_Rich_And_Famous_(Single_Version)_Tracy_Byrd.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Almost Famous",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/08_Almost_Famous_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Famous Fighters (Skit)",
+      "artist": "Wu-Tang Clan",
+      "has_synced": true,
+      "path": "select/09_Famous_Fighters_(Skit)_Wu-Tang_Clan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "When Will I Be Famous?",
+      "artist": "BROS",
+      "has_synced": false,
+      "path": "select/10_When_Will_I_Be_Famous_BROS.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Famous (feat. Reginae Carter)",
+      "artist": "Lil Wayne feat. Reginae Carter",
+      "has_synced": true,
+      "path": "select/11_Famous_(feat._Reginae_Carter)_Lil_Wayne_feat._Reginae_Carter.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Famous (feat. Reginae Carter)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/12_Famous_(feat._Reginae_Carter)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Famous Blue Raincoat",
+      "artist": "Leonard Cohen",
+      "has_synced": false,
+      "path": "select/13_Famous_Blue_Raincoat_Leonard_Cohen.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Famous Blue Raincoat",
+      "artist": "Marissa Nadler",
+      "has_synced": true,
+      "path": "select/14_Famous_Blue_Raincoat_Marissa_Nadler.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Reunion - The Naked and Famous Remix",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/15_Reunion_-_The_Naked_and_Famous_Remix_M83.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Reunion (The Naked And Famous Remix)",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/16_Reunion_(The_Naked_And_Famous_Remix)_M83.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rich & Famous (feat. Louie V)",
+      "artist": "Meek Mill feat. Louie V",
+      "has_synced": true,
+      "path": "select/17_Rich_&_Famous_(feat._Louie_V)_Meek_Mill_feat._Louie_V.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FAMOUS",
+      "artist": "ALLDAY PROJECT",
+      "has_synced": false,
+      "path": "select/pl_01_FAMOUS_ALLDAY_PROJECT.txt"
+    }
+  ]
+}
